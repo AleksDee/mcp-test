@@ -18,3 +18,7 @@ cd mcp-test
 ## Contributing
 
 Feel free to open issues or pull requests for any improvements.
+
+## License
+
+MIT
